@@ -30,8 +30,8 @@ public class User {
     }
 }
 
-class Test {
-    public static void main(String[] args) {
-        new User("A");
-    }
+    class Main0000 {
+        public static void main(String[] args) {
+            new User("A");
+        }
 }
